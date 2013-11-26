@@ -16,7 +16,7 @@
 					<th id="titleH2" colspan="4">Hausaufgabe Kapitel 6: Mit CSS formatierte Tabelle aller "XHTML 1.0 strict"-Elemente </th>
 				</tr>
 				<tr>
-					<th id="titleH21" colspan="4">Validiert mit: <a href="http://jigsaw.w3.org/css-validator/" onclick="window.open(this.href);return false;"><img src="valid-css2-blue.png" alt="W3C CSS Validation Service"/></a> und <a href="http://validator.w3.org/" onclick="window.open(this.href);return false;"><img src="valid-xhtml10.png" alt="W3C Markup Validation Service"/></a> </th>
+					<th id="titleH21" colspan="4">Validiert mit: <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://mvanderschaeghe.cloudcontrolled.com" onclick="window.open(this.href);return false;"><img src="valid-css2-blue.png" alt="W3C CSS Validation Service"/></a> und <a href="http://validator.w3.org/check?uri=mvanderschaeghe.cloudcontrolled.com" onclick="window.open(this.href);return false;"><img src="valid-xhtml10.png" alt="W3C Markup Validation Service"/></a> </th>
 				</tr>
 				<tr>
 						<th>Element-Tag</th>
